@@ -1,5 +1,3 @@
-#Don't remove This Line From Here. @Dev_Arora_0981 | @DevArora0981
-#Github :- Devarora0981 | Devarora0987
 import requests
 import random
 import os
@@ -577,5 +575,5 @@ async def vickprivatesticker(client: Client, message: Message):
            if not Yo == "text":
                await message.reply_sticker(f"{hey}")
 
-print(f"{BOT_NAME} ɪs ᴀʟɪᴠᴇ! ɴᴏᴡ ғᴜᴄᴋ ᴏғғ! ᴀɴᴅ ɢᴏ ᴛᴏ @Wᴇ_ʀғʀɪᴇɴᴅs ʙɪᴛᴄʜ!!")      
+print(f"{BOT_NAME} ɪs ᴀʟɪᴠᴇ! ɴᴏᴡ ғᴜᴄᴋ ᴏғғ! ᴀɴᴅ ɢᴏ ᴛᴏ @TH3ONLYSUPPORT ʙɪᴛᴄʜ!!")      
 bot.run()
